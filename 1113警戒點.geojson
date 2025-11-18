@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "1113警戒點",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "明利村靠河岸聚落" }, "geometry": { "type": "Point", "coordinates": [ 121.383024282384525, 23.68978824017616 ] } },
+{ "type": "Feature", "properties": { "name": "大馬村易成孤島區" }, "geometry": { "type": "Point", "coordinates": [ 121.396839746885433, 23.683680020565486 ] } },
+{ "type": "Feature", "properties": { "name": "大馬村堤防旁聚落" }, "geometry": { "type": "Point", "coordinates": [ 121.413717492689742, 23.682809696896054 ] } },
+{ "type": "Feature", "properties": { "name": "馬太鞍部落及光復市區" }, "geometry": { "type": "Point", "coordinates": [ 121.425931419267584, 23.670302183114472 ] } },
+{ "type": "Feature", "properties": { "name": "北富村靠光復溪聚落" }, "geometry": { "type": "Point", "coordinates": [ 121.444269908452227, 23.662371541427689 ] } },
+{ "type": "Feature", "properties": { "name": "阿陶莫部落" }, "geometry": { "type": "Point", "coordinates": [ 121.466374651653652, 23.671188708689265 ] } },
+{ "type": "Feature", "properties": { "name": "加里洞部落" }, "geometry": { "type": "Point", "coordinates": [ 121.486525870575363, 23.691303163358032 ] } },
+{ "type": "Feature", "properties": { "name": "環保科技園區" }, "geometry": { "type": "Point", "coordinates": [ 121.452418392610085, 23.68026316100422 ] } },
+{ "type": "Feature", "properties": { "name": "山興里箭瑛大橋旁聚落" }, "geometry": { "type": "Point", "coordinates": [ 121.491717669336836, 23.731828888032602 ] } },
+{ "type": "Feature", "properties": { "name": "明利社區" }, "geometry": { "type": "Point", "coordinates": [ 121.40331948878945, 23.694951839451001 ] } },
+{ "type": "Feature", "properties": { "name": "長橋社區" }, "geometry": { "type": "Point", "coordinates": [ 121.417835320982306, 23.708580895523607 ] } }
+]
+}
